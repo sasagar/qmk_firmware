@@ -1,1 +1,1 @@
-# The default keymap for choco60
+# The keymap for choco60 edited by Sasapiyo
